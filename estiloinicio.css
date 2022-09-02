@@ -1,0 +1,70 @@
+body{
+    background-image: url(pexels-scott-webb-2824173.jpg);
+}
+h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: black;
+    padding: 10px;
+    color: white;
+}
+a:link, a:visited {
+    background-color: black;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: white;
+    color: black;
+  }
+  ul.barramenu{
+        display: flex;
+        background-color: black;
+        list-style-type: none;
+        margin: 0px;
+        padding: 6px;
+  }
+  ::-webkit-scrollbar{
+    background-image: url(pexels-scott-webb-2824173.jpg);
+    background-position: bottom;
+    width: 12px;
+}
+::-webkit-scrollbar-thumb{
+    background-color: black;
+    border-radius: 20px;
+}
+.flex-center{
+    border: double black;
+    padding: 1%;
+    font-weight: 4px;
+}
+#fondo{
+    background-image: url(pexels-mitchell-luo-3694708.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}    
+p{
+    display: flex;
+    text-align: center;
+    font-size: 30px;
+}
+div.Contactos {
+    text-align: center;
+    display: block;
+    padding-left: 15px;
+}
+h3{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
